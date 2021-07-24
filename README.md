@@ -1,5 +1,11 @@
 # The Fuzz '64
+Learn more:
+[![Fuzz '64](https://img.shields.io/badge/Fuzz-'64-blue.svg )](https://mrspudnik.blogspot.com/2017/12/the-fuzz-64.html)
 
+Demo Souns :
+[![youtube](https://img.shields.io/badge/youtube-red.svg)](https://www.youtube.com/watch?v=--tDIBWNw34)
+
+<img src="https://2.bp.blogspot.com/-S2t0P56NnEs/WilvobbiwlI/AAAAAAAADwo/oanxuJ2ZxGoqgR2dK0nlrI3op2SYcNIFACLcBGAs/s320/IMG_20171016_102253.jpg" alt="The Fuzz '64">
 
 ## Resistors
 - R1, R17 - 1M
