@@ -2,7 +2,7 @@
 Learn more:
 [![Fuzz '64](https://img.shields.io/badge/Fuzz-'64-blue.svg )](https://mrspudnik.blogspot.com/2017/12/the-fuzz-64.html)
 
-Demo Souns :
+Demo Sounds :
 [![youtube](https://img.shields.io/badge/youtube-red.svg)](https://www.youtube.com/watch?v=Ou_34bCExAw)
 [![youtube](https://img.shields.io/badge/youtube-red.svg)](https://www.youtube.com/watch?v=yB0giTp8IRE)
 [![youtube](https://img.shields.io/badge/youtube-red.svg)](https://www.youtube.com/watch?v=aM1xw_lBKsU)
