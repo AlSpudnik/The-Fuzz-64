@@ -7,7 +7,7 @@ Demo Sounds :
 [![youtube](https://img.shields.io/badge/youtube-red.svg)](https://www.youtube.com/watch?v=yB0giTp8IRE)
 [![youtube](https://img.shields.io/badge/youtube-red.svg)](https://www.youtube.com/watch?v=aM1xw_lBKsU)
 
-<img src="https://2.bp.blogspot.com/-S2t0P56NnEs/WilvobbiwlI/AAAAAAAADwo/oanxuJ2ZxGoqgR2dK0nlrI3op2SYcNIFACLcBGAs/s320/IMG_20171016_102253.jpg" alt="The Fuzz '64">
+<img src="https://2.bp.blogspot.com/-S2t0P56NnEs/WilvobbiwlI/AAAAAAAADwo/oanxuJ2ZxGoqgR2dK0nlrI3op2SYcNIFACLcBGAs/s320/IMG_20171016_102253.jpg" alt="The Fuzz 64">
 
 ### Components
 #### Resistors
