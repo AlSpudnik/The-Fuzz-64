@@ -20,15 +20,17 @@ Demo Sounds :
 - R8 - 10k
 - R9 - 680 Ohm
 - R10 - 820 Ohm
-- R11 - 4,7k
 - R12, R13 - 470 Ohm
 - R14 - 560 Ohm
 - R15 - 2,2k
 - R16 - 3,6k
 - R18 - 8,2k
 - R19 - 18k
-- R20, R22 - 100k
 - R21 - 300k*
+
+#### Potentiometers
+- R11 - B5k
+- R20, R22 - B100k
 
 #### Capacitors
 - C1 - 47μF 25V (electro)
