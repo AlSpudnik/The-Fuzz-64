@@ -10,7 +10,7 @@ Demo Sounds :
 <img src="https://2.bp.blogspot.com/-S2t0P56NnEs/WilvobbiwlI/AAAAAAAADwo/oanxuJ2ZxGoqgR2dK0nlrI3op2SYcNIFACLcBGAs/s320/IMG_20171016_102253.jpg" alt="The Fuzz 64">
 
 ### Components
-#### Resistors
+#### Resistors (0.25W)
 - R1, R17 - 1M
 - R2 - 15k
 - R3 - 1k
